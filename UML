@@ -1,0 +1,6 @@
+Unified Modeling Language
+UML is not a programming language, it is rather a visual language. We use UML diagrams to portray the behavior and structure of a system. UML helps software engineers, businessmen and system architects with modeling, design and analysis.
+UML is linked with object oriented design and analysis. UML makes  the use of elements and forms associations between them to form  diagrams. Diagrams in UML can be broadly classified as:
+·	Structural Diagrams – Capture static aspects or  structure of a system. Structural Diagrams include: Component Diagrams,  Object Diagrams, Class Diagrams and Deployment Diagrams.
+·	Behavior Diagrams –  Capture dynamic aspects or behavior of the system. Behavior diagrams  include: Use Case Diagrams, State Diagrams, Activity Diagrams and  Interaction Diagrams
+
